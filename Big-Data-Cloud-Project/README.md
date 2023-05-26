@@ -20,7 +20,7 @@ The project involves the following steps:
 3. Data Analysis:
    - Download the processed CSV files from Amazon S3.
    - Merge the data into a single DataFrame.
-   - Perform SQL queries on the merged data to gain insights.
+   - Perform operations on the merged data to gain insights.
 
 ## Prerequisites
 
